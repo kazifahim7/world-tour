@@ -1,0 +1,12 @@
+.country{
+    border:  2px solid tomato;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.visited{
+    background-color: cadetblue;
+}
+.non-visited{
+    background-color: rgb(10, 6, 1);
+}
